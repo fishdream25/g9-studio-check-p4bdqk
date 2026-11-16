@@ -1,0 +1,174 @@
+{
+  "assets": [
+    {
+      "path": "CITATION.cff",
+      "sha256": "81e4dd647e90a2d7e490e72d581aef6b2810e943a7c44d271e3a1bac4eb94af1"
+    },
+    {
+      "path": "LICENSE",
+      "sha256": "9e5f1b3c610b9c2da5c313bf81d577a7d1acec686bdb0384edefa6df0f90cd94"
+    },
+    {
+      "path": "index.html",
+      "sha256": "3d2cd2b57f0e98b29a55bd41dae42660d6a9efac93206cc3708ec21e5f45eb0e"
+    }
+  ],
+  "baseUrl": "https://fishdream25.github.io/g9-studio-check-p4bdqk/",
+  "carriers": {
+    "md": {
+      "version": "1.2.0"
+    },
+    "slides": {
+      "version": "1.2.0"
+    }
+  },
+  "config": {
+    "sha256": "13d8d06c37c481f692e4ea63d9ef022d8f36d052a7e20decdfb1694223eea3cf"
+  },
+  "documents": [
+    {
+      "delivery": "cdn",
+      "includes": [],
+      "key": "a7a699407f24521b178c3053c28aa328995c188ae17012c222f6254f0ffa277c",
+      "kind": "md",
+      "output": "README.md.html",
+      "outputSha256": "b2e56362795a0b6529505df7e95f153fc65e4a88c00954d237c2dcadd4d54087",
+      "path": "README.md",
+      "sha256": "fe79718d2afcb8d1531b357d888817f35b7a8dfeceef583e3504cabc60bb1d64",
+      "title": "[G9] Studio Check",
+      "uid": "doc-z0yid5cn3msw"
+    },
+    {
+      "delivery": "cdn",
+      "includes": [],
+      "key": "af586b996fa210f831776465741ba6cea100ab43c36f60dcf509e00681883186",
+      "kind": "md",
+      "output": "index.md.html",
+      "outputSha256": "460510784725fd1e2e64f4c2c7459ac2c6862c6595633a553aded07107b558ef",
+      "path": "index.md",
+      "sha256": "2439287353dad35daaac341cf0717fc4144850ed431428e592203ea317dd095a",
+      "title": "[G9] Studio Check"
+    },
+    {
+      "delivery": "cdn",
+      "includes": [],
+      "key": "81bf8ca7445aa4bc8af240650357d6cf28dc37f490fe2273c1dbb39007d83e5d",
+      "kind": "md",
+      "output": "practice/atoms-and-elements.md.html",
+      "outputSha256": "f24da69ceace7e64621ef32ee771306ecd0761e4f6c45ba458b8bd890d6e962e",
+      "path": "practice/atoms-and-elements.md",
+      "sha256": "25f0d8ce9a93a444014274fe36af71b4cc70dd3cd08bc6916b5e0bcb302f9dd6",
+      "title": "Atoms and Elements",
+      "uid": "doc-409yqk3qxrvn"
+    },
+    {
+      "delivery": "cdn",
+      "includes": [],
+      "key": "08273dce322d0ce84a7204f0db37be50bb2ee6018d14cf2b20ad89be674c2ff0",
+      "kind": "md",
+      "output": "practice/gases.md.html",
+      "outputSha256": "0c46ee2fd6f6c8a973ab9007f3148d6133442dcc63e032d3659f363c21d6e6cc",
+      "path": "practice/gases.md",
+      "sha256": "f0cbec3578f8730f8361edea8cb63d7ffa299cd035bd1e5318fdddcf46bc8f50",
+      "title": "Gases",
+      "uid": "doc-8y69o1f537vv"
+    },
+    {
+      "delivery": "cdn",
+      "includes": [],
+      "key": "cf70f4e75239f6999d2d44699c11e2b9a98e131644b1784c375ec9fab0931106",
+      "kind": "md",
+      "output": "practice/thermochemistry.md.html",
+      "outputSha256": "f882c9825a474edb77d7a7801e62764f8ec94f145e89e2d66308fd7cf4e17e55",
+      "path": "practice/thermochemistry.md",
+      "sha256": "41e860ca820ea88c68d40e987663893a74c1cb6b39c8c61517b4d9d720c2245a",
+      "title": "Thermochemistry",
+      "uid": "doc-7cj1tbsls9ud"
+    },
+    {
+      "delivery": "cdn",
+      "includes": [],
+      "key": "d5fbcea23ca00b32a24bc8fde1b11943fc7e3c1d18d1484ea88fd17a5bc1a440",
+      "kind": "slides",
+      "output": "slides/atoms-and-elements.slides.html",
+      "outputSha256": "5b3e8852ea248ef654e6face72007e61ca4fbf2ba0a594fbe7fb9d4328e9470c",
+      "path": "slides/atoms-and-elements.slides.md",
+      "sha256": "b2be56271764189536f81c0f0d0c50199e47f9597d1c00a5a2d29074d293e82f",
+      "title": "Atoms and Elements",
+      "uid": "doc-4o8fvzu0fi9b"
+    },
+    {
+      "delivery": "cdn",
+      "includes": [],
+      "key": "2bc0bbfccd5eddf372ddea9f4a8b2b9dc46bd15c53ca71626f65f929a5273ed9",
+      "kind": "slides",
+      "output": "slides/gases.slides.html",
+      "outputSha256": "befae7a1850ae40aa1ee7ffabb06144f42c75446e44e5c9cf894fef82a6b14ca",
+      "path": "slides/gases.slides.md",
+      "sha256": "d3785436e0ef6840cc48f7025a693c9b40780e5cd86e4d1a15cdaf6f32414a1b",
+      "title": "Gases",
+      "uid": "doc-fcp2gd06gr64"
+    },
+    {
+      "delivery": "cdn",
+      "includes": [],
+      "key": "b0bdb7b851a01ff4c541596ebad3916477de7cc6d970cd9a10df4083be1ba7ce",
+      "kind": "slides",
+      "output": "slides/thermochemistry.slides.html",
+      "outputSha256": "d5c7a664566850de9384cb9b93971e67d8c432fe4248206ec6e82de376239803",
+      "path": "slides/thermochemistry.slides.md",
+      "sha256": "59b87ba9d6393a855a14695eacaa6dac25e8bb571d7dc8dd9fa78ce9103e2e66",
+      "title": "Thermochemistry",
+      "uid": "doc-6hkq3cdf80r0"
+    },
+    {
+      "delivery": "cdn",
+      "includes": [],
+      "key": "ad64631b567bdc1cf03010ec7590a50745054f309bb2ceeb5066ad0f4c465ef0",
+      "kind": "md",
+      "output": "study-guide/atoms-and-elements.md.html",
+      "outputSha256": "da9e15dbc46d9fe4f1b4e29198280cfcbc4ee4eb575c869ce48fdb85bfe820ed",
+      "path": "study-guide/atoms-and-elements.md",
+      "sha256": "64babe26ec0e4e07b06ea83dcf6f01055b46a5817f5b74751deedf118ae191e3",
+      "title": "Atoms and Elements",
+      "uid": "doc-q02r7gapwfyq"
+    },
+    {
+      "delivery": "cdn",
+      "includes": [],
+      "key": "cbb4ea714e8d848e54740dc4a673c71dc41f294982d9d80fb22a2b0cd76bdbf7",
+      "kind": "md",
+      "output": "study-guide/gases.md.html",
+      "outputSha256": "30e1a9473e6d5f39891f132b3c8723e6a6e6f0a0099c72820f5834c915531678",
+      "path": "study-guide/gases.md",
+      "sha256": "7c2e5613132e8dff66c7dacaa711fe45b3275da9fc3552bcb1d8b334fdb04043",
+      "title": "Gases"
+    },
+    {
+      "delivery": "cdn",
+      "includes": [],
+      "key": "307c71ba1b2e97ce306a89d84d858509a373b9fa98943df6cd8cab6c7db3627a",
+      "kind": "md",
+      "output": "study-guide/thermochemistry.md.html",
+      "outputSha256": "198e0fb2390ce601fdfb6cc225ffc4516f4cb1719dbdd2f9cccf4e7d270f1601",
+      "path": "study-guide/thermochemistry.md",
+      "sha256": "517fa17eff63a9906457696ebf0e5290c7dd796b0f130bc83cbe195695f6a917",
+      "title": "Thermochemistry",
+      "uid": "doc-txdgu7opal5z"
+    }
+  ],
+  "format": 1,
+  "generated": [
+    {
+      "path": ".nojekyll",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "sitemap.xml",
+      "sha256": "a1a0d64ee014a1e91bc48a744f83d8ffe2cede662a023f735056e49867ddad3c"
+    }
+  ],
+  "generator": "orz-site 0.1.0",
+  "naming": "family",
+  "skipped": []
+}
