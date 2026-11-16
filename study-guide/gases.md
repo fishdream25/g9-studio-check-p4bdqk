@@ -20,3 +20,5 @@ In a mixture, each gas contributes its partial pressure: $P_{total} = P_A + P_B$
 
 G9 sentence one.
 Offline sentence G9.
+
+The mole fraction of a gas is the number of moles of that gas divided by the total number of moles of all gases in the mixture.
