@@ -1,0 +1,26 @@
+{
+  "packageId": "pkg-g9-studio-check-pip4bdqk",
+  "title": "[G9] Studio Check",
+  "license": "CC-BY-4.0",
+  "createdAt": "2026-11-16T22:07:04.454Z",
+  "schemaVersion": 3,
+  "units": [
+    {
+      "slug": "atoms-and-elements",
+      "title": "Atoms and Elements"
+    },
+    {
+      "slug": "gases",
+      "title": "Gases"
+    },
+    {
+      "slug": "thermochemistry",
+      "title": "Thermochemistry"
+    }
+  ],
+  "type": "oer-course@1",
+  "harness": {
+    "name": "oer-course",
+    "version": "coursewerk-1.0.5"
+  }
+}
